@@ -1,44 +1,29 @@
-User Interface Experiments/Projects
-===================================
+# User Interface Experiments/Projects
 
-Okhati: An E-Commerce Medical Store
-------------------------------------------------
+## NixOS
 
-**Landing Page**
+A new site design idea by me.
 
-Desktop page:
+<div style="display:grid;grid-template-area:1fr 1fr 1fr;">
+  <img width="300px" alt="Landing page of NixOS website" src="./nixos/homepage.png"/>
+  <img width="300px" alt="Downloads page of NixOS website" src="./nixos/download.png"/>
+  <img width="300px" alt="Learn more page of NixOS website" src="./nixos/learn.png"/>
+</div>
 
-![Okhati Store Desktop UI landing page](./okhati/okhati.png)
+## Okhati
 
-Mobile page:
+An e-commerce medical store.
 
-![Okhati Store Mobile UI landing page](./okhati/okhati_mobile.png)
+<div style="display:grid;grid-template-area:2fr 1fr;">
+  <img width="650px" alt="Okhati Store Desktop UI landing page" src="./okhati/okhati.png" />
+  <img width="300px" alt="Okhati Store Mobile UI landing page" src="./okhati/okhati_mobile.png" />
+</div>
 
-RR Campus: A Campus' Website
-----------------------------
+## RR Campus
 
-**Landing page**
+Campus' Website
 
-Desktop page:
-
-![landing page of RR campus website (desktop)](./rr_campus/rr.png)
-
-Mobile page:
-
-![landing page of RR campus website (mobile)](./rr_campus/rr_mobile.png)
-
-
-NixOS: A New Site Idea
-----------------------
-
-**Landing page:**
-
-![](./nixos/homepage.png)
-
-**Downloads page:**
-
-![](./nixos/download.png)
-
-**Learn more page:**
-
-![](./nixos/learn.png)
+<div style="display:grid;grid-template-area:2fr 1fr;">
+  <img width="650px" alt="landing page of RR campus website (desktop)" src="./rr_campus/rr.png"/>
+  <img width="300px" alt="landing page of RR campus website (mobile)" src="./rr_campus/rr_mobile.png"/>
+</div>
