@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> moved to <https://codeberg.org/sudanchapagain/ui-projects-and-experiments>
+
 # User Interface Experiments/Projects
 
 ## NixOS
